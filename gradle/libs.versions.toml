@@ -19,7 +19,7 @@ maven-plugin-testing-harness = "3.3.0"
 plexus = "3.0.0"
 
 jbool = "1.24"
-kotlin-logging = "6.0.3"
+kotlin-logging = "7.0.4"
 log4j2 = "2.23.1"
 kaml = "0.57.0"
 sarif4k = "0.6.0"
